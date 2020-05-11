@@ -1,0 +1,59 @@
+a:hover {
+    text-decoration: none;
+}
+
+.second-nav-item {
+    font-size: 17px;
+}
+
+.second-nav-font-color {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.second-nav-font-color:hover {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+#new-observations-head-section {
+    background: url(../img/s1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#new-observations-head-section .dark-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#top-editor-head-section {
+    background: url(../img/editorialBoard.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#top-editor-head-section .dark-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#top-contributor-head-section {
+    background: url(../img/contrib.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#top-contributor-head-section .dark-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#blogs-head-section {
+    background: url(../img/contrib.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#blogs-head-section .dark-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+}
