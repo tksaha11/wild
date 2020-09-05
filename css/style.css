@@ -1,28 +1,42 @@
 a:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .second-nav-item {
-    font-size: 17px;
+  font-size: 17px;
 }
 
 .second-nav-font-color {
-    color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.5);
 }
 
 .second-nav-font-color:hover {
-    color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.75);
 }
 
-.species-slider-image {}
+.species-slider-image {
+}
 
 #our-mission-head-section {
-    background: url(../img/s1.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
+  background: url(../img/s1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 #our-mission-head-section .dark-overlay {
-    background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 0, 0, 0.9);
+}
+.newObs-topContb-nes-cards {
+  height: 80px;
+  width: 80px;
+}
+
+.rounded-image {
+  height: 190px;
+  width: 190px;
+  border-radius: 50%;
+}
+.foter-c-color {
+  background-color: #2d3236 !important;
 }
